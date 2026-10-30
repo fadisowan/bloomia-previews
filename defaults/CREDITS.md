@@ -14,9 +14,9 @@ cropped and re-encoded as WebP. No people's faces, no brand marks.
 | digital/about.webp | https://www.pexels.com/photo/minimalist-home-office-with-laptop-on-desk-36123568/ |
 | physical/hero.webp | https://www.pexels.com/photo/photo-of-vases-6805522/ |
 | physical/about.webp | https://www.pexels.com/photo/pottery-on-a-table-15440781/ |
-| perfume/hero.webp | https://www.pexels.com/photo/close-up-shot-of-perfume-bottles-12402366/ |
-| perfume/about.webp | https://www.pexels.com/photo/close-up-shot-of-a-perfume-bottle-on-the-sand-8361545/ |
-| perfume/shelf-oud.webp | https://www.pexels.com/photo/smoke-from-incense-17860048/ |
+| perfume/hero.webp | https://www.pexels.com/photo/smoke-from-incense-17860048/ |
+| perfume/about.webp | https://www.pexels.com/photo/close-up-shot-of-perfume-bottles-12402366/ |
+| perfume/shelf-oud.webp | https://www.pexels.com/photo/burning-incense-in-home-8694230/ |
 | perfume/shelf-rose.webp | https://www.pexels.com/photo/composition-of-cosmetic-bottle-with-pink-rose-petals-and-wooden-plate-4041392/ |
 | perfume/shelf-musk.webp | https://www.pexels.com/photo/cotton-on-white-background-9702241/ |
 | perfume/shelf-gifts.webp | https://www.pexels.com/photo/gift-box-decorated-with-ribbon-bow-for-present-4397903/ |
