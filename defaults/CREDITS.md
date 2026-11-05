@@ -12,8 +12,11 @@ cropped and re-encoded as WebP. No people's faces, no brand marks.
 | services/about.webp | https://www.pexels.com/photo/minimalist-home-office-desk-setup-with-laptop-and-candle-31145641/ |
 | digital/hero.webp | https://www.pexels.com/photo/cozy-workspace-with-open-notebook-and-headphones-28536450/ |
 | digital/about.webp | https://www.pexels.com/photo/minimalist-home-office-with-laptop-on-desk-36123568/ |
-| physical/hero.webp | https://www.pexels.com/photo/photo-of-vases-6805522/ |
-| physical/about.webp | https://www.pexels.com/photo/pottery-on-a-table-15440781/ |
+| physical/hero.webp | https://www.pexels.com/photo/clothes-hanged-on-clothes-rack-3965545/ |
+| physical/about.webp | https://www.pexels.com/photo/rack-with-linen-clothing-18797320/ |
+| physical/shelf-new.webp | https://www.pexels.com/photo/hanging-of-pink-shirt-on-a-clothing-rack-9558711/ |
+| physical/shelf-best.webp | https://www.pexels.com/photo/collection-of-garments-hanging-on-rack-6045285/ |
+| physical/shelf-basics.webp | https://www.pexels.com/photo/white-blazer-hanging-on-black-metal-rack-7671167/ |
 | perfume/hero.webp | https://www.pexels.com/photo/smoke-from-incense-17860048/ |
 | perfume/about.webp | https://www.pexels.com/photo/close-up-shot-of-perfume-bottles-12402366/ |
 | perfume/shelf-oud.webp | https://www.pexels.com/photo/burning-incense-in-home-8694230/ |
